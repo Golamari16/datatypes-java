@@ -13,5 +13,12 @@ public class Test {
         System.out.println(ch);
         char cha=65;
         System.out.println(cha);
+        boolean b1=true;
+        // boolean b=1; invalid
+        boolean b2=false;
+        //boolean b3=0;
+
+
+
     }
 }
